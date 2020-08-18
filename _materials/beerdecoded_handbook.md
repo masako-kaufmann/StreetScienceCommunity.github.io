@@ -64,11 +64,20 @@ Consumables
 
 # Schedule
 
-Add links to material
-
 ## Part I: Extraction of the yeast DNA 
+Link to [DNA extraction protocol](https://github.com/StreetScienceCommunity/StreetScienceCommunity.github.io/blob/master/_protocols/beer-dna-extraction.md)
+
+
 
 ## Part II: Sequencing of the DNA
+Link to [DNA sequencing protocol](https://github.com/StreetScienceCommunity/StreetScienceCommunity.github.io/blob/master/_protocols/beer-dna-sequencing.md)
 
 ## Part III: Analysis of the data
+Link to [Data Analysis protocol](https://github.com/StreetScienceCommunity/StreetScienceCommunity.github.io/blob/master/_protocols/beer-data-analysis.md)
+
+
+
+
+
+
 
