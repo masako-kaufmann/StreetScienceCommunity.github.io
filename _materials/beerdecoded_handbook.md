@@ -56,17 +56,39 @@ At the university or at a school
 
 Materials
 - Computer for sequencing
-- Centrifuge
-...
+- Thermo-regulated centrifuge
+- Water bath at 100°C
+- Tape
+- Vortex
+- Magnetic rack or strong magnet
+- Spectrophotometer (Nanodrop)
+- 1x 1000ml Erlenmeyer
+- 1x serological transfer pipette
+- P10, P20, P200, P1000, P5000 pipettes
 
 Consumables
-- Add includes from protocols
+- 10x 50ml Falcon tubes
+- 4x 1.5ml Eppendorf tubes
+- 4ml Tris-buffer pH7.4 1M
+- Pipette tips
+- Ethanol bath or dry ice
+- 2ml Lysis buffer: 2% Triton X-100, 1% SDS, 10mM NaCl, 10mM Tris-HCl, 1mM EDTA- 
+- Magnetic beads (SPRI beads like AMPure Beads XP or similar)
+- It is possible to prepare cheap homemade SPRI beads to purify DNA by following instructions
+- 70% Ethanol solution
+- DNA binding column, i.e. QIAquick PCR Purification Kit or MinElute Reaction Kit 50 from Qiagen
+- 750µl Buffer PE
+- Nuclease free water (for solving the DNA pellet)
 
 # Schedule
 
 Add links to material
 
 ## Part I: Extraction of the yeast DNA 
+
+
+
+
 
 ## Part II: Sequencing of the DNA
 
